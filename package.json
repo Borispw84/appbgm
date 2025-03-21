@@ -2,7 +2,7 @@
     "name": "procedimientos-app",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://https://borispw84.github.io/appbgm/",
+    "homepage": "https://borispw84.github.io/appbgm/",
     "scripts": {
       "dev": "vite",
       "build": "vite build",
